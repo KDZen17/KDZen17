@@ -1,7 +1,9 @@
-Hi to anybody, I am KDZen17 what is means.. I don't tell you, it's a secret. =>
-Currently I learning such books as "Clean Code" by Robert C. Martin and "The Clean Coder" by Robert C. Martin too.
+Hi to anybody, I am **KDZen17** what is means.. Never mind, it's a secret.
 
-I am beginner in programming and I was recently appeared on GitHub. So I will be glad of any sort of your feedback. Especially this relate to my works.
+Currently I learning such books as *"Clean Code"* by *Robert C. Martin* and *"The Clean Coder"* by the same author.
+
+> [!NOTE]
+> I am beginner in programming and I was recently appeared on GitHub. So I will be glad of any sort of your feedback. Especially this relate to my works.
 
 My contacts:
 - kd.zen17@yandex.ru | my e-mail
