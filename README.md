@@ -1,10 +1,14 @@
+### About Me
 Hi! I am **KDZen17**.
 Currently I learning such books as *"Clean Code"* by *Robert C. Martin* and *"The Clean Coder"* by the same author.
+Also I have strains of perfectionism that are reflected in my clean-code and bugs responsibilites.
 
 > [!NOTE]
 > I am beginner in programming and I was recently appeared on GitHub.
 > So I will be glad of any sort of your feedback. Especially this relate to my works.
+
 ***
+
 ### My contacts:
 - kd.zen17@yandex.ru | my e-mail
 - @KDZen17 | link to me on Telegram
